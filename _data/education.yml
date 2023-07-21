@@ -2,7 +2,7 @@
 - degree: Master of Science, Operations Research
   uni: Georgia Institute of Technology
   year: August 2021 &mdash; December 2022
-  grade: ("GPA: 4.0")
+  grade: "GPA: 4.0"
   #awards:
     #- award: Summa Cumme Laude graduate
   #summary: If you had any meaningful roles at college, feel free to write about them here
@@ -10,6 +10,6 @@
 - degree: Bachelor of Science, Mathematics, Business Administration
   uni: Gordon College
   year: August 2017 &mdash; May 2021
-  grade: ("GPA: 3.84")
+  grade: "GPA: 3.84"
   award: Summa Cumme Laude
   #summary: You can choose to have either a single or multiple awards
